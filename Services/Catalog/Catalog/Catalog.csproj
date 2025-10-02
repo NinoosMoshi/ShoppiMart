@@ -19,8 +19,6 @@
     <Folder Include="Commands\" />
     <Folder Include="Data\" />
     <Folder Include="Handlers\" />
-    <Folder Include="Specifications\" />
-    <Folder Include="Repositories\" />
     <Folder Include="Queries\" />
   </ItemGroup>
 
